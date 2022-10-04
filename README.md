@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, ***Sneha here***
 
 🔭 I’m currently working on one new project and will keep it private until done
 
