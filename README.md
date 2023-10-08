@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on one new project and will keep it private until done
 
-🌱 I’m currently learning React and web3 
+🌱 I’m currently learning Flutter
 
 📫 How to reach me: https://www.linkedin.com/in/sneha-c-b284661a2
 
