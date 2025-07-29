@@ -1,8 +1,6 @@
 ### Hi there 👋, ***Sneha here***
 
-🔭 I’m currently working on one new project and will keep it private until done
-
-🌱 I’m currently learning Flutter
+🔭Learning everyday
 
 📫 How to reach me: https://www.linkedin.com/in/sneha-c-b284661a2
 
